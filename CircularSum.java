@@ -1,6 +1,6 @@
 public class CircularSum{
     public static void main(String[]args){
-        int []arr={8-1,3,4};
+        int []arr={8,-1,3,4};
         int totalSum=0;
         int maxSum=arr[0],curretMax=arr[0];
         int minSum=arr[0],currentMin=arr[0];
